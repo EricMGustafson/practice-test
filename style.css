@@ -1,1 +1,11 @@
-/* YOUR STYLES HERE */
+.logo {
+  height: 250px;
+}
+
+h6 {
+  color: #ffdb6d;
+  text-align: center;
+  border: solid #ffdb6d 3px;
+  padding: 1rem;
+  background-color: #1d2531;
+}
